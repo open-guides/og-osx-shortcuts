@@ -1,6 +1,6 @@
 # Contributing
 
-If you search for OS X keyboard shortcuts you get lots of pages, and none list everything, few are up to date, and few prioritize them well.
+If you search for macOS keyboard shortcuts you get lots of pages, and none list everything, few are up to date, and few prioritize them well.
 
 Please help make this list more helpful, easier to use, or more complete!
 
