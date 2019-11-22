@@ -111,7 +111,7 @@ The list above is not exhaustive, but you can learn additional ones via the **[k
 **⌘E** *Find Selection*: Search for the selected text. Then use **⌘G** and **⌘⇧G** for navigation.
 
 **⌘Space** *Spotlight*: Show or hide the Spotlight search field.  
-**⌥Space** Show Finder search window.
+**⌘⌥Space** Show Finder search window.
 
 ### Copy/Paste
 
