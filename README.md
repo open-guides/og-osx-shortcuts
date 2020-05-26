@@ -112,7 +112,7 @@ You can also type accents by pressing one of these modifier keys before a suitab
 **⌘E** *Find Selection*: Search for the selected text. Then use **⌘G** and **⌘⇧G** for navigation.
 
 **⌘Space** *Spotlight*: Show or hide the Spotlight search field.  
-**⌥Space** Show Finder search window.
+**⌘⌥Space** Show Finder search window.
 
 ### Copy/Paste
 
